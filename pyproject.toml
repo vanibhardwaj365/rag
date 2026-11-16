@@ -7,7 +7,16 @@ authors = [
     { name = "vanibhardwaj365", email = "vanibhardwaj365@gmail.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "chromadb>=1.5.9",
+    "faiss-cpu>=1.16.0",
+    "langchain>=1.4.8",
+    "langchain-community>=0.4.2",
+    "langchain-core>=1.7.4",
+    "pymupdf>=2.1",
+    "pypdf>=6.21.4",
+    "sentence-transformers>=6.3.0",
+]
 
 [project.scripts]
 yoyo-honey-s = "yoyo_honey_s:main"

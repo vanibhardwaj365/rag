@@ -1,0 +1,30 @@
+# Artificial Intelligence and Machine Learning
+
+## Introduction to AI
+
+Artificial Intelligence (AI) is a branch of computer science
+that focuses on creating intelligent machines.
+
+## Machine Learning
+
+Machine Learning is a subset of AI that enables computers
+to learn patterns from data.
+
+## Types of Machine Learning
+
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+
+## What is RAG?
+
+Retrieval-Augmented Generation (RAG) combines information
+retrieval with language generation.
+
+A RAG pipeline consists of:
+1. Document Loading
+2. Text Splitting
+3. Embedding Generation
+4. Vector Storage
+5. Retrieval
+6. Answer Generation
